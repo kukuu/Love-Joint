@@ -1,5 +1,5 @@
 # Love Joint
 
-Nutraceutical Lifestyle &amp; Healthy Living Boosters®
+Made for nutraceutical Lifestyle &amp; Healthy Living Boosters®
 
 - https://github.com/kukuu/lovejoint
