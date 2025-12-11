@@ -6,8 +6,6 @@ _Boosters® for nutraceutical Lifestyle &amp; Healthy  Living._
 
 Love Joint is a  focused  Product Engineering online  enterprise platform. It specialises in Nutraceutical  Lifestyle & Healthy Living Boosters®.
 
-The project uses Apollo Server and Apollo client libraries to handle data fetching. CI/CD deployments are via Docker. 
-
 ### Vault (**Private**)
 
 https://github.com/kukuu/lovejoint
