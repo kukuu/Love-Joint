@@ -20,7 +20,7 @@ https://github.com/kukuu/lovejoint
 
 - **6 DRIVE** helps to restore imbalance in loss of energy and physical fitness -  a result  of natural and gradual decline in testosterone levels that men start to notice in their 40s, 50s and beyond. 
 
-- 6 DRIVE's   organic chemical components are designed to support men and women  in many ways:
+- **6 DRIVE**'s   organic chemical components are designed to support men and women  in many ways:
 
    - TESTOSTERONE LEVELS :Zinc contributes to the maintenance of normal testosterone levels in the blood
    - ENERGY: Vitamins B6, B12, C, Magnesium & Pantothenic acid contribute to the reduction of tiredness and fatigue and support normal energy-yielding metabolism
