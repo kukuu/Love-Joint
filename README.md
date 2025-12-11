@@ -14,7 +14,7 @@ https://github.com/kukuu/lovejoint
 ### Overview
 
 
-- **What is 6 DRIVE?**: A brand within the  **Love Joint** eco-system. It is themed as **"The Power of Nature".** 100% Organic Tree Bark. Natural testosterone boosters for males and females to stay energised for days. Improves menopause symptoms and hot flashes - 30 tablets.
+- **What is 6 DRIVE?**: A brand within the  **Love Joint** eco-system. It is themed as **"The Power of Nature".** 100% Organic Tree Bark. Natural testosterone boosters for males and females to stay energised for days. Improves menopause symptoms and hot flashes.
 
 
 
