@@ -36,4 +36,3 @@ https://github.com/kukuu/lovejoint
    - IMMUNITY: Vitamin A, D, B6 B12, C, Folate, Selenium and Zinc contributes to the normal function of the immune system.
 
 
-- https://github.com/kukuu/lovejoint   
